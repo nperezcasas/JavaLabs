@@ -1,0 +1,39 @@
+Assignment due 1 week from today:
+
+P16.10
+---
+Add a method boolean contains(Object obj) that checks whether our LinkedList
+implementation contains a given object. Implement this method by directly traversing
+the links, not by using an iterator.
+
+Use the equals method to determine whether obj equals node.data for a given node.
+---
+
+You must also create a testing program that demonstrates this all works.
+
+For example: Create a linked list, add 5 elements.  Test with an element
+that is in the list to see that it works. Test with an element that is not
+in the list to see that you get the expected answer for that as well.
+
+-------
+
+Extra Credit opportunity:
+
+Maximum of 10 points....but you would have to really impress me to earn 10. A
+complete program with a good demo would probably be worth around 7, you will need
+to really show mastery to get the full 10.
+
+Check out P16.15, P16.16, P16.17, and P16.18.
+
+Do as many of these as you wish to earn a few points of extra credit.
+
+Please turn in just one final program, not four separate ones.
+
+Use String instead of the Object type in your code.
+
+You must include a thorough demo program that demonstrates you *understand*
+what you have created.
+
+You'll need to follow all the basic guidelines like coding style, comments, etc.
+that we have used all semester -- if you can't at least get to this level, you
+will probably get zero points.
